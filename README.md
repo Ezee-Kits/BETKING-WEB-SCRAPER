@@ -39,7 +39,7 @@ pip install selenium pandas
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/Betking-Betting-Scraper.git
+   git clone https://github.com/Ezee-Kits/Betking-Betting-Scraper.git
    ```
 
 2. **Set up ChromeDriver**:  
